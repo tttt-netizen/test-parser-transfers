@@ -1,0 +1,24 @@
+app_name: UKRSIB
+title: UKRSIB
+content: Perekaz: CLIENT001 00.00.0000 00:00:00 na kartku 000000****0000 na sumu 1000.00UAH. Dostupno 1154.16UAH. EXAMPLE.COM
+
+app_name: PUMB
+title: Надходження
+content: 2000.0UAH
+CLIENT NAME
+00-00-0000 00:00
+Картка: *0000
+Доступно: 2000.0UAH
+
+app_name: CA+
+title: CA+
+content: Баланс: 5853,79 UAH
+Картка: *0000
+
+app_name: UKRSIB
+title: UKRSIB
+content: Blokuvannia: ORDER001 PAYMENT*MERCHANT 00.00.0000 00:00:00. Kartka 000000****0000. Suma 2540.43UAH. Dostupno 78126.18UAH. 
+
+app_name: TAS2U
+title: -1 000.00 UAH доступно 505.01 UAH *0000
+content: переказ з картки на картку, 00.00.0000 00:00:00, власні кошти 505.01 UAH комісія 15.00 UAH,
